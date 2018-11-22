@@ -1,4 +1,4 @@
-### Determination of the value of g using Bar Pendulum.
+## Determination of the value of g using Bar Pendulum.
 
 
 

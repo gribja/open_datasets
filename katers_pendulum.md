@@ -1,4 +1,4 @@
-### Determination of the value of g using Kater’s Pendulum.
+## Determination of the value of g using Kater’s Pendulum.
 
 
 

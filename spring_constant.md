@@ -1,4 +1,4 @@
-### Determination of the spring constant by studying the motion of a spring
+## Determination of the spring constant by studying the motion of a spring
 
 
 

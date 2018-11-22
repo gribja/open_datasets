@@ -1,4 +1,4 @@
-### Determination of the Moment of Inertia of a Flywheel.
+## Determination of the Moment of Inertia of a Flywheel.
 
 
 

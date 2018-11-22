@@ -36,6 +36,6 @@ By clicking on these following links you will have access to corresponding datas
 
 
 ## License:
-[MIT License](./LICENSE)
+[MIT License](./LICENSE.md)
 
 Copyright (c) 2018 Ranjan Bagri

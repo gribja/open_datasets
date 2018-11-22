@@ -1,4 +1,4 @@
-### Determination of the elastic Constants of a wire by Searle’s method.
+## Determination of the elastic Constants of a wire by Searle’s method.
 
 
 
