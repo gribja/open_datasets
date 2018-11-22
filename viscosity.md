@@ -1,3 +1,7 @@
+### Determination of Coefficient of Viscosity of water by Capillary Flow Method (Poiseuille’s method).
+
+
+
 No of Observations|Measurement in Horizontal Direction|                 |              |                     |                 |              |               |            |Radius of capillary tube ((Dx+Dy)/2)
 ------------------|-----------------------------------|-----------------|--------------|---------------------|-----------------|--------------|---------------|------------|------------------------------------
                   |Reading for left end               |                 |              |Reading for right end|                 |              |Dx=(D1-D2) (cm)|Mean Dx (cm)|0.2163333333

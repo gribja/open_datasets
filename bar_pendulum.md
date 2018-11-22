@@ -1,3 +1,7 @@
+### Determination of the value of g using Bar Pendulum.
+
+
+
 No. of Observations|Hole no.|Distance(cm)|Total time for 20 oscillation (s)|Time Period(t/20)
 -------------------|--------|------------|---------------------------------|-----------------
 1                  |1       |45.3        |32.7                             |1.635

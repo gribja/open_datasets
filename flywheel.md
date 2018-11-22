@@ -1,3 +1,7 @@
+### Determination of the Moment of Inertia of a Flywheel.
+
+
+
 No. of Observations|Mass(g)|No of complete revolution by the wheel (x)|Distance of the chalk mark from the pointer(d)|Fraction of revolution (y=d/s)|No of revolution (n1=x+y)|Time(t)|Angular velocity of flywheel (w)
 -------------------|-------|------------------------------------------|----------------------------------------------|------------------------------|-------------------------|-------|--------------------------------
 1                  |50     |34                                        |22.6                                          |0.3680781759                  |34.36807818              |55.49  |7.783060149

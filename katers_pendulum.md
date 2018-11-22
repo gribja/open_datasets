@@ -1,3 +1,7 @@
+### Determination of the value of g using Kater’s Pendulum.
+
+
+
 No. of  Observations|No. of oscillation (n)|Total time for oscillation (t1)(sec)|Time period (T1=t1/n)(sec)|Mean(T1)
 --------------------|----------------------|------------------------------------|--------------------------|-----------
 1                   |15                    |25.9                                |1.726666667               |

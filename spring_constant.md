@@ -1,3 +1,7 @@
+### Determination of the spring constant by studying the motion of a spring
+
+
+
 No. of Observations|Mass of load(m0)(gm)|Extension of spring (l)(cm)|Time for 20 oscillation (sec)|Mean(t)(sec)|Time period (T=t/20)(sec)|T^2(sec^2)
 -------------------|--------------------|---------------------------|-----------------------------|------------|-------------------------|------------
                    |                    |                           |6.59                         |            |                         |
