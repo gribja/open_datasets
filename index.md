@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/gribja/unit-testrb.svg)](https://github.com/gribja/unit-testrb/blob/master/LICENSE) [![uptime](https://img.shields.io/badge/uptime-100%25-orange.svg)](https://img.shields.io/badge/uptime-100%25-orange.svg) [![status](https://img.shields.io/pypi/status/Django.svg)](https://img.shields.io/pypi/status/Django.svg)
+[![license](https://img.shields.io/github/license/gribja/unit-testrb.svg)](https://gribja.github.io/open_datasets/LICENSE.md) [![uptime](https://img.shields.io/badge/uptime-100%25-orange.svg)](https://img.shields.io/badge/uptime-100%25-orange.svg) [![status](https://img.shields.io/pypi/status/Django.svg)](https://img.shields.io/pypi/status/Django.svg)
 
 ## Experiments:
 
@@ -36,6 +36,6 @@ By clicking on these following links you will have access to corresponding datas
 
 
 ## License:
-[MIT License](./LICENSE.md)
+[MIT License](LICENSE.md)
 
 Copyright (c) 2018 Ranjan Bagri

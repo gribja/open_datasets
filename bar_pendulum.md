@@ -1,6 +1,8 @@
 ## Determination of the value of g using Bar Pendulum.
 
 
+### Table 1: Measurement of length(l) and time period(T)
+
 
 No. of Observations|Hole no.|Distance(cm)|Total time for 20 oscillation (s)|Time Period(t/20)
 -------------------|--------|------------|---------------------------------|-----------------

@@ -1,6 +1,14 @@
 ## Determination of the Moment of Inertia of a Flywheel.
 
 
+* Height through whichthe mass has fallen (h) = 173.23cm
+* Vernier constant(v.c) = 0.01cm
+* No. of revolutions the wheel makes during descent of the mass (n) = 18
+* Circumference of the wheel (s) = 61.4cm
+
+
+### Table 1: Measurement of angular velocity(w) of the wheel
+
 
 No. of Observations|Mass(g)|No of complete revolution by the wheel (x)|Distance of the chalk mark from the pointer(d)|Fraction of revolution (y=d/s)|No of revolution (n1=x+y)|Time(t)|Angular velocity of flywheel (w)
 -------------------|-------|------------------------------------------|----------------------------------------------|------------------------------|-------------------------|-------|--------------------------------
@@ -10,10 +18,12 @@ No. of Observations|Mass(g)|No of complete revolution by the wheel (x)|Distance 
 4                  |200    |112                                       |14.6                                          |0.2377850163                  |112.237785               |94.25  |14.96468545
 
 
+### Table 2: Measurement of axial diameter of the axle
+
 
 No. of Observations   |Linear Scale (l)|Vernier Scale (n)|Diameter (l+n*v.c)|Mean(cm)   |Grand Mean (cm)
 ----------------------|----------------|-----------------|------------------|-----------|---------------
-Left side observation |                |                 |                  |           |2.136666667
+Left side observation |                |                 |                  |           |2.0433333335
 1                     |2.1             |2                |2.12              |2.136666667|
 2                     |2.1             |3                |2.13              |           |
 3                     |2.1             |6                |2.16              |           |

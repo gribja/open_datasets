@@ -2,6 +2,12 @@
 
 
 
+* Intial length of the spring = 11.9cm
+
+
+### Table 1: Measurement of load(m), length(l) and time period(T)
+
+
 No. of Observations|Mass of load(m0)(gm)|Extension of spring (l)(cm)|Time for 20 oscillation (sec)|Mean(t)(sec)|Time period (T=t/20)(sec)|T^2(sec^2)
 -------------------|--------------------|---------------------------|-----------------------------|------------|-------------------------|------------
                    |                    |                           |6.59                         |            |                         |

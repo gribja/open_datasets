@@ -2,6 +2,16 @@
 
 
 
+* Length of the specimen wire = 30.5 cm
+* Mass of the left bar = (100+100+50+50+5+2+2)g = 309g
+* Mass of the left bar = (100+100+50+50+5+2+2+1)g = 310g
+* Least count of screw gauge(l.c) = 0.001cm
+* Vernier calliperse = 0.01cm
+
+
+### Table 1: Measurement of breadth of the bar
+
+
 No. of Observations|Main scale (l)(cm)|Vernier Scale (n)|Total breadth(l+n*v.c)(cm)|Mean(cm)
 -------------------|------------------|-----------------|--------------------------|-----------
 1                  |1.1               |2                |1.12                      |1.158333333
@@ -12,6 +22,8 @@ No. of Observations|Main scale (l)(cm)|Vernier Scale (n)|Total breadth(l+n*v.c)(
 6                  |1.1               |8                |1.18                      |
 
 
+### Table 2: Measurement of length of the bar
+
 
 No. of Observations|length of left bar(l1)(cm)|length of right bar(l1)(cm)|Mean(cm)
 -------------------|--------------------------|---------------------------|--------
@@ -20,6 +32,8 @@ No. of Observations|length of left bar(l1)(cm)|length of right bar(l1)(cm)|Mean(
 3                  |30                        |30.1                       |
 4                  |30.1                      |30.1                       |
 
+
+### Table 3: Measurement of radius of specimen wire
 
 
 No. of Observations|Linear scale (l)(mm)|Circular Scale (n)|total diameter (l+n*l.c)(mm)|Mean diameter (mm)|radius (r)(cm)
@@ -32,6 +46,8 @@ No. of Observations|Linear scale (l)(mm)|Circular Scale (n)|total diameter (l+n*
 6                  |1                   |17                |1.17                        |                  |
 
 
+### Table 4: Measurement of time period(t1)
+
 
 No. of Observations|No. of total oscillation (n)|Total time for oscillation (t)(sec)|Time period (t1)(sec)|Mean(t1)(sec)
 -------------------|----------------------------|-----------------------------------|---------------------|-------------
@@ -39,6 +55,8 @@ No. of Observations|No. of total oscillation (n)|Total time for oscillation (t)(
 2                  |20                          |15.8                               |0.79                 |0.7943333333
 3                  |20                          |15.99                              |0.7995               |
 
+
+### Table 5: Measurement of time period(t2)
 
 
 No. of Observations|No. of total oscillation (n)|Total time for oscillation (t)(sec)|Time period (t2)(sec)|Mean(t2)(sec)

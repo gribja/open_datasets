@@ -2,6 +2,16 @@
 
 
 
+* Length of the wire(l) = 104.5cm
+* Least count of the screw gauge = 0.001cm
+* Distance from mirror to the telescope(D) = 100cm
+* Perpendicular distance(p) = 4.6cm
+* Position of dead load(x1) = 20cm
+
+
+### Table 1: Measurement of load(m) and shift(x)
+
+
 No. of Observations|Load(m) (kg)|Position of Crosswire(x2)|                    |        |Shift(x=x2-x1)(cm)
 -------------------|------------|-------------------------|--------------------|--------|------------------
                    |            |Load Increasing (cm)     |Load decreasing (cm)|Mean(cm)|
@@ -10,6 +20,8 @@ No. of Observations|Load(m) (kg)|Position of Crosswire(x2)|                    |
 3                  |5.064       |20.5                     |20.5                |20.5    |
 4                  |6.279       |20.6                     |20.6                |20.6    |
 
+
+### Table 2: Measurement of radius of specimen wire
 
 
 No. of Observations|Linear scale (l) (mm)|Circular scale(n)|Total diameter (l+n*v.c)(mm)|Mean diameter (mm)|Radius (r) (cm)

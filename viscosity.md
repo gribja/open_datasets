@@ -2,6 +2,13 @@
 
 
 
+* Length of the capillary tube = 45.6cm
+* Vernier constant(scale of travelling microscope) (v.c) = 0.001cm
+
+
+### Table 1: Measurement of radius(r) of capillary tube
+
+
 No of Observations|Measurement in Horizontal Direction|                 |              |                     |                 |              |               |            |Radius of capillary tube ((Dx+Dy)/2)
 ------------------|-----------------------------------|-----------------|--------------|---------------------|-----------------|--------------|---------------|------------|------------------------------------
                   |Reading for left end               |                 |              |Reading for right end|                 |              |Dx=(D1-D2) (cm)|Mean Dx (cm)|0.2163333333
@@ -16,6 +23,8 @@ No of Observations|Measurement in Vertical Direction  |                 |       
 2                 |6.9                                |37               |6.937         |6.7                  |2                |6.702         |0.235          |0.2326666667|
 3                 |6.9                                |41               |6.941         |6.7                  |6                |6.706         |0.235          |            |
 
+
+### Table 2: Measurement of rate of flow through capillary tube
 
 
 No. of Observations|water level in left tube(h1) (cm)|water level in right tube(h2) (cm)|level difference (h=h1~h2)(cm)|volume of water collected (V') (cc)|Time of flow(t) (sec)|Rate of flow (V=V'/t)(cc/s)|Mean(V) (cc/s)
