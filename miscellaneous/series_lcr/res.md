@@ -1,8 +1,8 @@
 ## Experimental dataset of resonant series LCR circuit
 
-L = 10mH
-C = 100000pF
-R = 100ohm
+* L = 10mH
+* C = 100000pF
+* R = 100ohm
 
 f(kHz)  |  Vr(volt)
 --------|----------
@@ -52,3 +52,5 @@ f(kHz)  |  Vr(volt)
 ![line-plot](line-plot.png)
 
 ![data-plot](data-plot.png)
+
+![gnuplot](plot.svg)
